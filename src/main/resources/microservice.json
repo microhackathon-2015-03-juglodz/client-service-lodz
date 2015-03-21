@@ -2,8 +2,8 @@
     "lodz": {
         "this": "com/ofg/client-service-lodz",
         "dependencies": {
-            "collerator": {
-                "path": "com/ofg/some-other-service"
+            "dupaaaaa": {
+                "path": "com/ofg/reporting-service-lodz"
             }
         }
     }

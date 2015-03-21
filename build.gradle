@@ -30,6 +30,7 @@ apply plugin: 'com.ofg.uptodate'
 apply plugin: 'docker'
 apply plugin: 'idea'
 apply plugin: 'accurest'
+apply plugin: 'eclipse'
 
 ext {
     versionPrefix = "CD"
