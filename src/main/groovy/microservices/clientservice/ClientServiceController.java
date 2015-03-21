@@ -45,7 +45,7 @@ public class ClientServiceController {
 				new MethodClosure(this, "unable to contcat reporting")
 				
 		)
-		.onUrl("/api/client")
+		.onUrl("/api/clients")
 		.body(new ObjectMapper().writeValueAsString(client))
 		.withHeaders()
 			.contentTypeJson()
