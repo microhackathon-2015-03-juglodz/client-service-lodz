@@ -288,3 +288,5 @@ Just add whatever you wish. If you don't like exposing every service explicitly,
 ### Cleaning npm and bower deps
 
  Type `gradle cleanGUIDeps`
+ 
+ testing ;)
