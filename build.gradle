@@ -1,6 +1,8 @@
 import org.apache.tools.ant.filters.ReplaceTokens
 import org.joda.time.DateTime
 
+println 'DUPA2'
+
 buildscript {
     repositories {
         mavenLocal()
